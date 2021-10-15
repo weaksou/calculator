@@ -277,7 +277,7 @@ function checkOperator(firstValue, operator, secondValue){
     return firstValue +  " &#247; " + secondValue;
     break;
   case "divideByTwo":
-    return firstValue +  " &#247; 2 " + secondValue;
+    return firstValue +  " &#247;" + secondValue;
     break;
   case "supTwo":
     return firstValue +  " <sup>2</sup> " + secondValue;
