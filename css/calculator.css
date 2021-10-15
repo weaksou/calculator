@@ -214,6 +214,8 @@ body{
     cursor: pointer;
     transition: 0.1s ease;
     user-select: none;
+    visibility: hidden;
+    opacity: 0;
 }#menuLines:hover{
     color: #ffffff;
 }
